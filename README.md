@@ -568,7 +568,7 @@ Data Analyst
 ### 🔗 Connect With Me
 
 - 🌐 **Portfolio:** https://javedali-analytics.github.io/portfolio/
-- 💼 **LinkedIn:** https://www.linkedin.com/in/md-javed-ali-67b052331
+- 💼 **LinkedIn:** https://www.linkedin.com/in/javedali-analytics
 - 🐙 **GitHub:** https://github.com/Javedali-analytics
 
 ---
